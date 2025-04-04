@@ -9,9 +9,13 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 
 ### **April 2025**  
 ✅ Set up GitHub repository  
-✅ Defined project goals and objectives  
+✅ Defined project goals and objectives
+✅ Researching Northern Territory Government's Crime, Justice and Law Department Datasets
+
+
+
 
 ### **Upcoming Next**  
-🔜 Finding a dataset
+🔜 Cleaning Data
 
 ---
