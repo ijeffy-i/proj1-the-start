@@ -9,12 +9,19 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 
 ### **April 2025**  
 ✅ Defined project goals and objectives  
-✅ Researching Northern Territory Government's Crime, Justice and Law Department Datasets
+✅ Researching Northern Territory Government's Crime, Justice and Law Department Datasets  
+
+🧼 Cleaned data  
+🧼 Combined CSV files  
+🧼 Cleaned column names with Janitor  
+🧼 Removed duplicate entries - kept latest entry of confirmed cases  
+🧼 Checked for missing values  
+🧼 Checked distribution of values for outliers
 
 
 
 
 ### **Upcoming Next**  
-🔜 Cleaning Data
+🔜 EDA
 
 ---
