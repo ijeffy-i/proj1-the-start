@@ -11,7 +11,7 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 ✅ Defined project goals and objectives  
 ✅ Researching Northern Territory Government's Crime, Justice and Law Department Datasets  
 
-🧼 Cleaned data  
+🧼 Cleaned data using R
 🧼 Combined CSV files  
 🧼 Cleaned column names with Janitor  
 🧼 Removed duplicate entries - kept latest entry of confirmed cases  
