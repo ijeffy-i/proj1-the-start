@@ -16,7 +16,10 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 🧼 Cleaned column names with Janitor  
 🧼 Removed duplicate entries - kept latest entry of confirmed cases  
 🧼 Checked for missing values  
-🧼 Checked distribution of values for outliers
+🧼 Checked distribution of values for outliers  
+
+✅ Uploaded R file  
+🧼 Changed alcohol_involvement & dv_involvement to a binary class  
 
 
 
