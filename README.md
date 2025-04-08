@@ -38,6 +38,10 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 
 
 ### **Upcoming Next**  
-🔜 EDA - Check Per Capita Crime Rates → Confirm if Darwin & Alice Springs have higher crime density or if it's due to population size.  
+🔜 EDA - Deep Dive into Alice Springs Crime Trends  
+
+1. Investigate crime rates from previous years to determine if 2024’s high crime per capita is an anomaly or consistent.
+2. Examine socio-economic factors, policing policies, or transient populations that might influence crime density.
+3. Identify which crimes contribute most to the high rate—violent crimes, theft, or repeat offenses?
 
 ---
