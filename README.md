@@ -26,13 +26,18 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 🗺️ EDA - Used Tableau to plot the data  
 🔗 [Tableau](https://public.tableau.com/app/profile/jeffy.i/viz/NTCrimeStatistics-AnAnalysisProject/CrimesRecordedbyYear)
 
+🗺️ EDA - Check Per Capita Crime Rates → Confirm if Darwin & Alice Springs have higher crime density or if it's due to population size.  
+🔎 Explored the top 3 regions with the highest count of offences recorded:
+
+1. Darwin Population: 255,559 → 126.6 Crimes per 1000 people (🔗 [Population Ref.](https://nteconomy.nt.gov.au/population))
+2. Alice Springs Pop.: 29,693 → 1047.6 Crimes per 1000 people (🔗 [Population Ref.](https://profile.id.com.au/rda-northern-territory/population-estimate?WebID=100))
+3. NT Balance Pop.: 34,172 → 355.7 Crimes per 1000 people (🔗 [Population Ref.](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SOS73))
+
+
 
 
 
 ### **Upcoming Next**  
 🔜 EDA - Check Per Capita Crime Rates → Confirm if Darwin & Alice Springs have higher crime density or if it's due to population size.  
-🔜 EDA - Compare Seasonal Trends to Prior Years → Validate whether Jan-Feb drops & March spikes happen annually or are unique to 2025.  
-🔜 EDA - Investigate Policies & Events Around Feb-Mar 2025 → What happened that might have caused crime rates to shift dramatically?  
-🔜 EDA - Predict Future Trends → Given this dataset, can we forecast crime patterns for the rest of 2025?  
 
 ---
