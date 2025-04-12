@@ -42,7 +42,7 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 
 #### **12/04**
 ✅ EDA - Deep Dive into Alice Springs Crime Trends  
-🔎 Extracted Alice Springs' population data from 2018 to 2024 - Discovered a surge of crimes post 2020.
+🔎 Extracted Alice Springs' population data from 2018 to 2024 - Discovered a surge of crimes post 2020. (🔗 [Population Ref.](https://profile.id.com.au/rda-northern-territory/population-estimate?WebID=100))
 
 
 ### **Upcoming Next**  
