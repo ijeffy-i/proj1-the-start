@@ -30,7 +30,7 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 🔎 Explored the top 3 regions with the highest count of offences recorded:
 
 1. Darwin Population: 255,559 → 126.6 Crimes per 1000 people (🔗 [Population Ref.](https://nteconomy.nt.gov.au/population))
-2. Alice Springs Pop.: 29,693 → 1047.6 Crimes per 1000 people (🔗 [Population Ref.](https://profile.id.com.au/rda-northern-territory/population-estimate?WebID=100))
+2. Alice Springs Pop.: 29,693 → 885.5 Crimes per 1000 people (🔗 [Population Ref.](https://profile.id.com.au/rda-northern-territory/population-estimate?WebID=100))
 3. NT Balance Pop.: 34,172 → 355.7 Crimes per 1000 people (🔗 [Population Ref.](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SOS73))
 
 #### **11/04**
