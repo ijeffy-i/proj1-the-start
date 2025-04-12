@@ -40,11 +40,15 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 ✅ Uploaded new CSV (final_crime_data_22to25).  
 ✅ Replaced Data source in Tableau for a more thorough EDA.  
 
-### **Upcoming Next**  
-🔜 EDA - Deep Dive into Alice Springs Crime Trends  
+#### **12/04**
+✅ EDA - Deep Dive into Alice Springs Crime Trends  
+🔎 Extracted Alice Springs' population data from 2018 to 2024 - Discovered a surge of crimes post 2020.
 
-1. Investigate crime rates from previous years to determine if 2024’s high crime per capita is an anomaly or consistent.
-2. Examine socio-economic factors, policing policies, or transient populations that might influence crime density.
-3. Identify which crimes contribute most to the high rate—violent crimes, theft, or repeat offenses?
+
+### **Upcoming Next**  
+🔜 Find Explanations for the Crime Surge (2021–2022)  
+
+1. Examine socio-economic factors, policing policies, or transient populations that might influence crime density.
+2. Identify which crimes contribute most to the high rate—violent crimes, theft, or repeat offenses?
 
 ---
