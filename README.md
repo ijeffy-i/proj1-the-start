@@ -47,10 +47,18 @@ This project marks a new step in documenting my journey as a Data Analyst. While
 #### **13/04**  
 🔎 Researched alcohol and domestic violence influence on crimes.  
 
-### **Upcoming Next**  
-🔜 Find Explanations for the Crime Surge (2021–2022)  
+#### **14/04**  
+🔎 Finalised insights on Property Damage offenses  
+🔎 Completed Theft-related offense trends → Identified Alice Springs and Darwin following similar patterns, with NT Balance as the outlier.  
+🔎 Compared yearly and monthly theft trends (2021 & 2022) → Found gradual declines and seasonal influences.  
+🔎 Analyzed NT-wide regional differences → Reinforced Alice Springs’ unique crime volatility compared to Darwin and NT Balance.  
 
-1. Examine socio-economic factors, policing policies, or transient populations that might influence crime density.
-2. Identify which crimes contribute most to the high rate—violent crimes, theft, or repeat offenses?
+### **Upcoming Next**  
+🔜 Start drafting the final report → Structuring the narrative with clear sections based on the insights we've gathered.  
+🔜 Refine crime comparisons → Strengthening Alice Springs vs Darwin vs NT Balance observations for clarity.  
+🔜 Visual enhancements → Ensuring charts and graphs effectively highlight key crime trends.  
+🔜 Summarize seasonal crime patterns → Finalizing insights on holiday spikes, mid-year fluctuations, and year-over-year changes.  
+🔜 Review data story flow → Making sure the report remains engaging, well-supported, and easy to interpret.  
+
 
 ---
